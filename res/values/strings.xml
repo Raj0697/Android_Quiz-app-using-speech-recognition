@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Speech_recognition</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="none"></string>
+    <string name="quiz">Android Quiz</string>
+    <string name="ques">question</string>
+    <string name="answer">Tell the answer</string>
+    <string name="title_activity_second">Second</string>
+    <string name="title_activity_third">Third</string>
+    <string name="sss">sendsms</string>
+    <string name="ss">sendmessage</string>
+    <string name="ssss">sendsmsmanager</string>
+
+</resources>
